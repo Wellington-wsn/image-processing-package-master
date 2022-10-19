@@ -1,0 +1,1 @@
+# Trata o processos/ de imagens, como modulo

@@ -1,0 +1,1 @@
+# Trata o processos 'utils'/ ferramentas auxiliares como modulo
